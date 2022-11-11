@@ -11,6 +11,7 @@
     >
 
     <Button
+        android:id="@+id/btnSarandonga"
         android:text="Sarandonga, Pulsa 3 segundos"
         android:autoSizeTextType="uniform"
         android:layout_columnSpan="4"

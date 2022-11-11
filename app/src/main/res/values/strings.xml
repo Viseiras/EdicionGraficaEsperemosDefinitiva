@@ -23,4 +23,7 @@
     <string name="suma">+</string>
     <string name="guardar">Guardar</string>
     <string name="calendario">Calendario</string>
+    <string name="icono_de_la_app_matavise">Icono de la App MataVise</string>
+    <string name="start">Start</string>
+    <string name="game">Game</string>
 </resources>

@@ -11,4 +11,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="Resalto">#5C3166</color>
     <color name="ResaltoCal">#C5AED5</color>
+    <color name="start">#FF0000</color>
+    <color name="nigato">#EEFF00</color>
+
 </resources>
