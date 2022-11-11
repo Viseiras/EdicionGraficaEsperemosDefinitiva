@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="6"
+    android:columnCount="4"
+    android:background="@color/background"
+    android:layout_margin="5sp"
+    android:useDefaultMargins="true"
+    >
+
+    <Button
+        android:text="Sarandonga, Pulsa 3 segundos"
+        android:autoSizeTextType="uniform"
+        android:layout_columnSpan="4"
+        android:layout_rowWeight="2"
+        android:layout_columnWeight="4"/>
+
+    <Button
+        android:id="@+id/btnPorc"
+        android:autoSizeTextType="uniform"
+        android:layout_width="wrap_content"
+        android:text="@string/porc"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+
+        />
+    <Button
+        android:id="@+id/btnC"
+        android:autoSizeTextType="uniform"
+        android:text="@string/c"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        android:layout_width="wrap_content"
+        />
+    <Button
+        android:id="@+id/btnDel"
+        android:autoSizeTextType="uniform"
+        android:text="@string/dele"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnSuma"
+        android:layout_width="106dp"
+        android:layout_rowWeight="1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/suma"
+        android:textColor="@color/teal_200" />
+    <Button
+        android:id="@+id/btn1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_1"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        />
+
+
+    <Button
+        android:id="@+id/btn2"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_2"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        />
+
+    <Button
+        android:id="@+id/btn3"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_3"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        />
+
+
+    <Button
+        android:id="@+id/btnMenos"
+        android:layout_width="107dp"
+        android:layout_rowWeight="1"
+        android:layout_column="3"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_Meno"
+        android:textColor="@color/teal_200" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_column="0"
+        android:autoSizeTextType="uniform"
+        android:textColor="@color/teal_200"
+        android:text="@string/_4"
+        android:layout_rowWeight="1"/>
+    <Button
+        android:id="@+id/btn5"
+
+        android:layout_column="1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_5"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btn6"
+
+        android:layout_column="2"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_6"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btnDiv"
+
+        android:layout_width="107dp"
+        android:layout_rowWeight="1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/division"
+        android:textColor="@color/teal_200" />
+    <Button
+        android:id="@+id/btn7"
+
+        android:layout_column="0"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_7"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btn8"
+
+        android:layout_column="1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_8"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btn9"
+
+        android:layout_column="2"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_9"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btnMulti"
+        android:layout_width="106dp"
+        android:layout_rowWeight="1"
+        android:layout_marginRight="0sp"
+        android:autoSizeTextType="uniform"
+        android:text="@string/x"
+        android:textColor="@color/teal_200" />
+
+    <Button
+        android:id="@+id/btnComa"
+        android:layout_column="0"
+        android:autoSizeTextType="uniform"
+        android:text="@string/coma"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"
+        />
+    <Button
+        android:id="@+id/btn0"
+
+        android:layout_column="1"
+        android:autoSizeTextType="uniform"
+        android:text="@string/_0"
+        android:textColor="@color/teal_200"
+        android:layout_rowWeight="1"/>
+
+    <Button
+        android:id="@+id/btnIgual"
+        android:layout_rowWeight="1"
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="2"
+        android:autoSizeTextType="uniform"
+        android:text="@string/igual"
+        android:textColor="@color/teal_200" />
+
+</GridLayout>

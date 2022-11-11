@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#E6E6E6</color>
+    <color name="purple_200">#777772</color>
+    <color name="purple_500">#308E1A</color>
+    <color name="boto_pulse">#0E5312</color>
+    <color name="purple_700">#1369FF</color>
+    <color name="teal_200">#97DD9E</color>
+    <color name="teal_700">#1A1E00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Resalto">#5C3166</color>
+    <color name="ResaltoCal">#C5AED5</color>
+</resources>
